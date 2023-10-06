@@ -1,0 +1,25 @@
+
+
+body{
+    background-color:#68B2AA;
+    justify-content: center;
+    align-content: center;
+}
+canvas{
+    margin-left: 30%;
+    margin-right: 25%;
+   
+    border:solid 10px #3c817a;
+}
+
+#title{
+    position:absolute;
+    left:50px;
+    top:170px;
+    font-family:cursive;
+    font-style:italic;
+    font-weight: bolder;
+    font-size: 40px;
+    color: #FEE98D;
+    text-shadow: 3px 3px 4px rgb(32, 187, 235);
+}
